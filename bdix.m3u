@@ -43,9 +43,11 @@ http://kst.moonplex.net:8080/CH3/tracks-v1a1/mono.m3u8
 #EXTM3u
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",STAR JALSHA HD
 http://38.96.178.201/live/STARJALSHA/index.m3u8
+
 #EXTM3U
 EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",COLORS BANGLA HD
 https://www.tbn24.com/api/video/4041_0.m3u8
+
 #EXTM3U
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/cHRc7hTk/Sun-Bangla.jpg",SUN BANGLA HD
 http://xtv.ooo:8080/Jawad1994/03112371534/245906
