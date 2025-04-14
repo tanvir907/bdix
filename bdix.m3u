@@ -8,3 +8,6 @@ https://www.tbn24.com/api/video/4016_0.m3u8
 https://www.tbn24.com/api/video/4027_0.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/NFq4kvY7/BTV-World.jpg",BTV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/NFq4kvY7/BTV-World.jpg",BTV Chattogram
+http://103.163.247.39/local_out/btv/video.m3u8?token=
