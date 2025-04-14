@@ -2,8 +2,8 @@
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/NFq4kvY7/BTV-World.jpg",BTV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/NFq4kvY7/BTV-World.jpg",BTV NEWS
-http://103.163.247.39/local_out/btv/video.m3u8?token=
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/NFq4kvY7/BTV-World.jpg",ATN BANGLA
+http://38.96.178.201/live/ATNBangla/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/hvcWR1Yz/Somoy-TV.jpg",SOMOY HD
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
