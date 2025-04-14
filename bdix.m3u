@@ -4,7 +4,3 @@ https://re.fredflix.fun/tata/intro/1000047502.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD
 http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="115" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906659479.png",Sony AATH 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/70f9fa1f-38af
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1732//output/index.mpd
