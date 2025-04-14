@@ -50,6 +50,9 @@ https://www.tbn24.com/api/video/4041_0.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/cHRc7hTk/Sun-Bangla.jpg",SUN BANGLA HD
 http://xtv.ooo:8080/Jawad1994/03112371534/245906
 #EXTM3U
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",SONY  MAX HD
+http://kst.moonplex.net:8080/CH1/tracks-v1a1/mono.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/3wPnKf19/Sony-Aath.jpg",SONY AATH
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTM3U
@@ -61,4 +64,13 @@ https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/qq07hbRM/Jalsha-Movies-HD.jpg",JALSHA MOVIES HD
 http://38.96.178.201/live/JalshaMovies/index.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony MAX HD
+http://kst.moonplex.net:8080/CH1/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg",ZEE CINEMA HD
+https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8 
+#EXTM3U
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",SONY YAY
+https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 #EXTM3U
