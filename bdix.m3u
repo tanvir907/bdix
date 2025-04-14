@@ -35,6 +35,9 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/Nj5XJGD8/Ekushe.jpg",MYTV HD
 https://mytvbangla.com/0.m3u8
 #EXTM3U
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg", ZEE 24
+https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",GTV HD
 https://www.tbn24.com/api/video/4027_0.m3u8
 #EXTM3U
@@ -76,9 +79,6 @@ https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/qq07hbRM/Jalsha-Movies-HD.jpg",JALSHA MOVIES HD
 http://38.96.178.201/live/JalshaMovies/index.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg",MON BANGLA
-https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg",BANGLA PLUS
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
