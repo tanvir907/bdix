@@ -8,10 +8,11 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8
 http://103.163.247.39/local_out/btv/video.m3u8?token=
 #EXTM3U
 #EXTM3U
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/hvcWR1Yz/Somoy-TV.jpg",Somoy TV
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/hvcWR1Yz/Somoy-TV.jpg",SOMOY HD
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
 #EXTM3U 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/4NVxpW6t/Maasranga.jpg",Maasranga TV
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/4NVxpW6t/Maasranga.jpg",MAASRANGA HD
 https://www.tbn24.com/api/video/4016_0.m3u8
 #EXTM3U
+GTV
 https://www.tbn24.com/api/video/4027_0.m3u8
