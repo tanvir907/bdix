@@ -4,3 +4,14 @@ https://re.fredflix.fun/tata/intro/1000047502.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD
 http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
+{
+    "name": "Cartoon Network HD",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "BuddyXiptv",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1744748119:KeyName=prod_linear:Signature=35GYhhxTaOkQzj4oxvQ9vDfzxGmcmrgFdl-ARgOEDAB6rcMHwE81R-ARDuPU0jW1bZU52SAj7r5Xmh5zclsmBw",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
