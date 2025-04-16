@@ -81,7 +81,7 @@ http://kst.moonplex.net:8080/CH1/tracks-v1a1/mono.m3u8
 https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8 
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png" group-title="Entertainment", ZEE TV HD
-https://live.drmlive-02.workers.dev/zeetvhd/348.m3u8
+https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_list/1170x658withlog1953200347.png" group-title="Movie", ZEE ACTION
 https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
