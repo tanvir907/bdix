@@ -41,24 +41,6 @@ https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",GTV HD
 https://www.tbn24.com/api/video/4027_0.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T SPORTS HD
-http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/90GBNXPX/A-Sports-HD.jpg",A SPORTS HD
-http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",TEN SPORTS HD
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"group-title="Sports",SONY 1 HD
-https://otttv.co.in/d2h/livestream/sony-sports-ten-1-hd/master.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports",SON 2 HD
-https://otttv.co.in/d2h/livestream/sony-sports-ten-2-hd/master.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",SONY 5 HD
-https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",ZEE BANGLA HD
 http://kst.moonplex.net:8080/CH4/tracks-v1a1/mono.m3u8
 #EXTM3U
@@ -118,6 +100,24 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",DISNEY TV
 https://my.rspublication.com/opp1.php?id=167551&e=.m3u8
+#EXTIM3U
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T SPORTS HD
+http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/90GBNXPX/A-Sports-HD.jpg",A SPORTS HD
+http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",TEN SPORTS HD
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"group-title="Sports",SONY 1 HD
+https://otttv.co.in/d2h/livestream/sony-sports-ten-1-hd/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports",SON 2 HD
+https://otttv.co.in/d2h/livestream/sony-sports-ten-2-hd/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",SONY 5 HD
+https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Information",LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
