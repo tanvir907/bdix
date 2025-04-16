@@ -162,8 +162,3 @@ https://live.drmlive-02.workers.dev/zee/348.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png" group-title="Relagion Channel", AL SUNNAH TV
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 #EXTM3U
-#EXTINF:-1 tvg-id="77" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/dd5030d1-5cc8
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1724/output/index.mpd
-#EXTM3U
