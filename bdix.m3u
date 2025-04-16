@@ -75,7 +75,7 @@ http://38.96.178.201/live/JalshaMovies/index.m3u8
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",SONY MAX HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8
+https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg",ZEE CINEMA HD
 https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8 
