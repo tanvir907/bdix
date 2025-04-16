@@ -89,7 +89,7 @@ https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",SONY TV
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="sony-max-2" tvg-name="Sony Max 2" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/babgov.png" tvg-chno="sony-max-2" group-title="Movies",SONY MAX 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg"group-title="Hindi Movies",SONY MAX 2
 https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",NICK BANGLA
