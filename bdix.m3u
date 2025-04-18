@@ -231,18 +231,13 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="English News",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTM3U
-# This m3u presented by t.me/piratestv_updates
-# API from byte-capsule
-[
-  {
-    "name": "& Pictures HD",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png",
-    "origin": "bldcmprod-cdn.toffeelive.com",
-    "referrer": "PiratesTV",
-    "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1745113527:KeyName=prod_linear:Signature=r1uWdLGdv_ClUXxAEPpd06D5N9SGYW8dgjSGO7WolZ7YxHq8ovUwMtXXLV49MJqeAvYDH88ZvMEfhUq9eG5lBw",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-]
+#"name": "& Pictures HD",
+#https://bldcmprod-cdn.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8",
+#logo": "https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png",
+#"origin": "bldcmprod-cdn.toffeelive.com",
+#"referrer": "PiratesTV",
+#"userAgent": "",
+#"cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1745113527:KeyName=prod_linear:Signature=r1uWdLGdv_ClUXxAEPpd06D5N9SGYW8dgjSGO7WolZ7YxHq8ovUwMtXXLV49MJqeAvYDH88ZvMEfhUq9eG5lBw",
+#"drmScheme": "",
+#"drmLicense": ""
+
