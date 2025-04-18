@@ -38,7 +38,7 @@ http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="Bangla",NEXUS TV HD
 http://38.96.178.201/live/NexusTV/index.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercBANGS .com/subirkumarpaul/Logo/main/Channel%20S.jpeg"group-title="Bangla",CHANNELl S HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOt3yWAtiThOoaXP24ItdKCDw3z7N8N2Ad84-t4W35b7tpvpVl&usqp=CAU",S TV
 http://38.96.178.201/live/ChannelS/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movie%20Bangla.png",MOVIE TV
