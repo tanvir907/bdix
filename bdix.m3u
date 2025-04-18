@@ -104,16 +104,16 @@ https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg",ZEE CINEMA HD
 https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="मनोरंजन",STAR GOLD HD
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title=",STAR GOLD HD
 https://www.tbn24.com/api/video/4029_0.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png" group-title="Entertainment", ZEE TV HD
 https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="मनोरंजन",STAR BHARAT HD
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title=",STAR BHARAT HD
 https://www.tbn24.com/api/video/4032_0.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title="मनोरंजन",STAR PLUS HD
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title=",STAR PLUS HD
 https://www.tbn24.com/api/video/4039_0.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmol/channel_list/1170x658withlog1844143347.png" group-title="Entertainment", ZEE ANMOI
