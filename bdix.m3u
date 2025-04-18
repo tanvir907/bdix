@@ -98,7 +98,7 @@ http://38.96.178.201/live/JalshaMovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDspgszK/20240426-170712.png" group-title="",BANGLA PLUS
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",SONY MAX HD
+#EXTINF:-1 group-title="INDIA"tvg-logo="https://i.ibb.co.com/svXnVrQT/images-1744977797789.png",SONY MAX HD
 https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg",ZEE CINEMA HD
@@ -125,7 +125,7 @@ https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_list/1170x658withlog1476130363.png" group-title="Movie", &PICTURES HD
 https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Wah.jpeg"group-title="Hindi Movies",SONY WAH
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/Kz9hhSJc/images-11.jpg",SONY WAH
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/hJvz1PYg/images.png",SONY SAB HD
@@ -195,13 +195,13 @@ https://otttv.co.in/d2h/livestream/sony-sports-ten-2-hd/master.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/Xkd1kwn0/Six-HD.png",SONY 5 HD
 https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Information",LOVE NATURE
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/JWVg4vqs/images-13.jpg",LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Information",SONY BBC HD
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/9mvzyvg2/channels4-profile-2.jpg",SONY BBC HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",DISCOVERY HD
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/vvRLnh02/images-1744979362989.png",DISCOVERY HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -225,7 +225,7 @@ http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Relagion Channel", PEACE TV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"group-title="English News",BBC 
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/ZCFvT7h/images-12.jpg",BBC 
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="English News",ALJAZEERA
