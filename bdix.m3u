@@ -38,7 +38,7 @@ http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="Bangla",NEXUS TV HD
 http://38.96.178.201/live/NexusTV/index.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="RTV HD (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="বাংলাদেশ",S TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BKGkcw3b/Channel-S-Bangladesh-Logo.png"group-title="BANGLADESH",S TV
 http://38.96.178.201/live/ChannelS/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movie%20Bangla.png",MOVIE TV
