@@ -113,8 +113,8 @@ https://www.tbn24.com/api/video/4032_0.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title=",STAR PLUS HD
 https://www.tbn24.com/api/video/4039_0.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmol/channel_list/1170x658withlog1844143347.png" group-title="Entertainment", ZEE ANMOI
-https://live.drmlive-02.workers.dev/zee/zeeanmol.m3u8
+#EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_list/1170x658withlog1953200347.png" group-title="Movie", ZEE ACTION
+https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_list/1170x658withlogo378606665.png" group-title="Entertainment", & TV HD
 https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
