@@ -160,7 +160,7 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://otttv.co.in/d2h/livestream/discovery-kids/manifest.mpd
 #EXTIM3U
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png" group-title="Kolkata Bangla Movies",KHUSHBOO BANGLAH
-
+https://wildearth-plex.amagi.tv/master.m3u8
 #EXTIM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/RkfpnmWd/download-2.jpg",T SPORTS HD
 http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
