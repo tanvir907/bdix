@@ -213,6 +213,12 @@ https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 #http://starshare.live/live/bana/bana/182.m3u8
 https://github.com/rahul979854/Channels/raw/main/AnimalsPlanetHd.m3u8
 #EXTM3U
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/q3870F8P/images.png",NATIONAL
+http://88.212.15.19/live/test_ngc/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/1Gny5NSv/images-1.jpg",WILD
+http://88.212.15.29/live/test_ngw/playlist.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_list/1170x658withlog2096037619.png" group-title="Lifestyle", ZEE ZEST HU
 https://live.drmlive-02.workers.dev/zee/348.m3u8
 #EXTM3U
